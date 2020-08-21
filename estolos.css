@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+   font-size: 16px; 
+   background: linear-gradient(to bottom, rgb(64, 107, 109), rgb(117, 193, 195));
+    
+}  
+
+.caja{
+    background: rgb(246, 246, 195);
+    padding:8px;
+    box-shadow: 1px 10px 15px rgb(18, 44, 44);
+    border-radius: 30px;
+    text-decoration-color: cadetblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.caja2{
+    background: cadetblue;
+    padding:1px;
+    box-shadow: 1px 1px 10px rgb(18, 44, 44);
+    margin-left: 28px;
+    margin-right: 28px;
+    border-radius: 30px;
+}
+
+.txt{
+    text-decoration-color: cornsilk;
+    text-shadow: rgb(3, 37, 37);
+}
